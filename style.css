@@ -1,0 +1,36 @@
+html {
+	font-family: "Karla", sans-serif;
+	background-image: url(bg.png);
+	margin: 5vw 5vw 0px 5vw;
+}
+
+h1 {
+	font-size: 2.75em;
+}
+
+a {
+	text-decoration: none;
+}
+
+.content p{
+	line-height: 1.5;
+}
+
+.subtitle {
+	font-size: 1.2em;
+}
+
+.code{
+	font-family: "Source Code Pro", monospace;
+	color: rgb(255,0,30);
+}
+
+#intro {
+	font-size: 1.5em;
+}
+
+.content {
+	border: 2px solid black;
+  	border-radius: 0.25vmin;
+  	padding: 1vmin;
+}
