@@ -7,7 +7,7 @@
 	<meta charset="UTF-8">
 </head>
 <body>
-	<h1> Build a Website I Resource Page </h1>
+	<h1 id="title"> Build a Website I Resource Page </h1>
 	<p id="intro"> Hello! Welcome to the Generation Girl Build a Website I Class of Summer 2020 resource page. This website is not (yet) mobile and tablet responsive.</p>
 	<div class="content">
 		<h2> Learning Resources </h2>
@@ -77,5 +77,17 @@
 
 	</div>	
 	<p> Coded by Matahari Kinanti Herwin, 2020</p>
+	<script type="text/javascript">
+		title.addEventListener("mouseover", function(){
+		  	title.innerHTML = "(YEAH)";
+		  	title.style.color = "rgb(255, 194, 217)";
+		  	title.style.transition = "1s";
+		})
+
+		title.addEventListener("mouseout", function(){
+		  title.innerHTML = "Build a Website I Resource Page";
+		  title.style.color = "rgb(23, 128, 66)";
+		})
+	</script>
 </body>
 </html>
