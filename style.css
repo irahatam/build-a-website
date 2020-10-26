@@ -12,6 +12,11 @@ h1 {
 
 a {
 	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: rgb(23, 128, 66);
 }
 
 .content p{
@@ -35,4 +40,12 @@ a {
 	border: 2px solid black;
   	border-radius: 0.25vmin;
   	padding: 1vmin;
+}
+
+.highlight{
+	background: black;
+	color: white;
+	display: inline-block;
+	font-weight: bold;
+	padding: 0.5rem;
 }
