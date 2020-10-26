@@ -1,4 +1,6 @@
-# baw-su-club-20
- Repo for Build a Website I - Eng Class Gen G Summer Club 2020 
+# build a website
+Build a Website resource page for rookies
 
- Mentor: Matahari K Herwin
+Originally created and compiled by Matahari for Summer 2020 Club
+
+*Will be updated soon for Winter Club*
