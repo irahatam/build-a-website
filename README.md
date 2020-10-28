@@ -1,6 +1,6 @@
 # irahatam.github.io/build-a-website
-Build a Website resource page for rookies
-Originally created and compiled by Matahari for Summer 2020 Club
+Build a Website resource page for rookies <br>
+Originally created and compiled by Matahari for Summer 2020 Club <br>
 *Will be updated soon for Winter Club*
 
 ## Note for contributors:
