@@ -49,3 +49,8 @@ a:hover{
 	font-weight: bold;
 	padding: 0.5rem;
 }
+
+.new{
+	color: red; 
+	font-size: 20px;
+}
