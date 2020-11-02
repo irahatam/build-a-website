@@ -2,8 +2,8 @@
 ## Main topic: Dynamic Web with React
 
 ### Day 1
-• HTML/CSS and JavaScript refresher
-• Setup Github repo
+• HTML/CSS and JavaScript refresher <br>
+• Setup Github repo <br>
 • Install CRA, Acios, Tailwind.css, and other dependencies
 *Note: Kalau bisa sebelum day 1 rookies udah disuruh bikin acc github + download [npm & node](https://www.npmjs.com/get-npm) sebelum kelas to make it more time efficient*
 ### Day 2
