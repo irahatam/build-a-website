@@ -54,3 +54,12 @@ a:hover{
 	color: red; 
 	font-size: 20px;
 }
+
+.container{
+	display: flex;
+}
+
+.column{
+	flex-direction: column;
+	flex-grow: 2;
+}
