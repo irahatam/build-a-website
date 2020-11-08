@@ -6,5 +6,5 @@ Originally created and compiled by Matahari for Summer 2020 Club <br>
 ### Note for contributors:
 Be sure to follow this style when adding new materials
 ```html
-<p><a href="#"> 🍍 Title <span class="new">NEW!</span></a>
+<p><a href="#"> ☃️ Title <span class="new">NEW!</span></a>
 ```
