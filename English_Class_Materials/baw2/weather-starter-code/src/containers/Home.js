@@ -5,8 +5,10 @@ import React, { useState, useEffect, useMemo } from "react";
 import Header from "../components/Header";
 import WeatherImage from "../components/WeatherImage";
 
-const weatherKey = `#`; // Your API Key here
+const weatherKey = `TODO`; // Your API Key here
 
-function Home() {}
+function Home() {
+  // TODO
+}
 
 export default Home;

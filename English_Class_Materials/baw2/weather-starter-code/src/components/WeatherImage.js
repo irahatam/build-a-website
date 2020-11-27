@@ -3,24 +3,23 @@ import React from "react";
 
 /* 
 import {
-    fa...;
-    fa...;
+    TODO
 } from "@fortawesome/free-solid-svg-icons";
 */
 
 function WeatherImage({ weatherType }) {
   switch (weatherType) {
-    case "#":
-      return <FontAwesomeIcon icon={#} />;
+    case "TODO":
+      return <FontAwesomeIcon icon={TODO} />;
 
-    case "#":
-      return <FontAwesomeIcon icon={#} />;
+    case "TODO":
+      return <FontAwesomeIcon icon={TODO} />;
 
-    case "#":
-      return <FontAwesomeIcon icon={#} />;
-      
+    case "TODO":
+      return <FontAwesomeIcon icon={TODO} />;
+
     default:
-      return <FontAwesomeIcon icon={#} />;
+      return <FontAwesomeIcon icon={TODO} />;
   }
 }
 
